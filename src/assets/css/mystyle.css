@@ -1,0 +1,40 @@
+.form-inline .row{
+    padding-bottom: 10px;
+}
+
+/* .modal-body .label{
+    margin-left: 40px;
+    padding-left: 40px;
+}
+
+.form-control .input{
+    margin-left: 30px;
+    padding-left: 40px;
+} */
+
+.adduser .modal-header{
+    background-color: rgb(42, 165, 99);
+    color: antiquewhite;
+}
+
+.adduser .modal-footer{
+    background-color: rgb(231, 243, 236);   
+}
+
+.edit .modal-header{
+    background-color: rgb(42, 106, 165);
+    color: antiquewhite;
+}
+
+.edit .modal-footer{
+    background-color: rgb(231, 238, 243);   
+}
+
+.addpakage .modal-header{
+    background-color: rgb(136, 165, 42);
+    color: rgb(250, 248, 215);
+}
+
+.addpakage .modal-footer{
+    background-color: rgb(240, 243, 231);   
+}
